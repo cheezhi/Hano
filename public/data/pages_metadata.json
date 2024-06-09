@@ -1,0 +1,22 @@
+[
+    {
+        "file_name": "example.md",
+        "metadata": {
+            "title": "example",
+            "subtitle": "example",
+            "abbrlink": "example",
+            "cover": "https://cdn-community.codemao.cn/47/community/d2ViXzMwMDFfMzUyMzQwMl8wXzE3MTc2MDc3NzE3NTZfZDcyNjI1ODk.jpeg",
+            "tags": [
+                "非常感谢"
+            ],
+            "music": true,
+            "music-title": "遇萤",
+            "music-artist": "拉考",
+            "music-src": "https://space.tutime.cn/d/%E7%A5%88%E7%AA%9D/Projects/public/statics/%E9%81%87%E8%90%A4%20-%20%E6%8B%89%E8%80%83.mp3",
+            "music-lrc": "https://space.tutime.cn/d/%E7%A5%88%E7%AA%9D/Projects/public/statics/%E9%81%87%E8%90%A4%20-%20%E6%8B%89%E8%80%83.lrc",
+            "music-pic": "https://p2.music.126.net/2aMc_jZh3tqtYDTHH1ksyg==/109951165416840305.jpg?param=1024y1024",
+            "date": null
+        },
+        "word_count": 1124
+    }
+]

@@ -8,7 +8,7 @@ const year = ref(d.getFullYear());
   <div class="footer">
     <div class="left">
       <a href="https://icp.gov.moe/?keyword=11111111" target="_blank">萌ICP备11111111号</a><br>
-      <span>Copyright©<button class="year_button wave-underline" type="button" @click="count++">{{ year+count }}</button> hako</span>
+      <span>Copyright©<button class="year_button wave-underline" type="button" @click="count++">{{ year+count }}</button> Hano</span>
     </div>
     <div class="right">
       <span>Powered by <a href="https://github.com/cheezhi/Hano" target="_blank">Hano</a></span>

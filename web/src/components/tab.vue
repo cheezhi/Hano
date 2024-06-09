@@ -5,7 +5,7 @@
         <div class="aitem"><a class="tab_a" href="#archives"><button class="item_button item_button_2">归档</button></a></div>
         <div class="aitem"><a class="tab_a" href="#projects"><button class="item_button item_button_2">作品</button></a></div>
         <div class="aitem"><a class="tab_a" href="#friends"><button class="item_button item_button_2">友人</button></a></div>
-        <div class="aitem"><a class="tab_a" href="https://zzzzhi.com/#/about"><button class="item_button item_button_2">关于</button></a></div>
+        <div class="aitem"><a class="tab_a" href="#about"><button class="item_button item_button_2">关于</button></a></div>
         <div class="aitem">
             <button class="item_button item_button_1" @click="toggleTheme" :class="{ 'is-active': isDarkMode }">
                 <i :class="isDarkMode ? 'item_icon iconfont icondark' : 'item_icon iconfont icontianqitaiyangqichuang'"></i>

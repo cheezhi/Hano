@@ -1,6 +1,7 @@
 import frontmatter  
 import json  
 import os  
+import time
 from watchdog.observers import Observer  
 from watchdog.events import FileSystemEventHandler  
 from datetime import date 
@@ -103,7 +104,7 @@ pages_observer.start()
   
 try:  
     while True:  
-        pass  
+        time.sleep(2) 
 except KeyboardInterrupt:  
     observer.stop()  
     pages_observer.stop()  
